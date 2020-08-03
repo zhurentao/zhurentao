@@ -1,5 +1,5 @@
 ### Hi there, I'm Mr.zhu👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhurentao)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhurentao)](https://github.com/zhurentao/zhurentao)
 <!--
 **zhurentao/zhurentao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
