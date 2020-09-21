@@ -1,4 +1,4 @@
-### Hi there, I'm Mr.zhu👋
+### Hi there, I'm zhurentao👋
 [![ZhuRentao's github stats](https://github-readme-stats.vercel.app/api?username=zhurentao)](https://github.com/zhurentao/zhurentao)
 <!--
 **zhurentao/zhurentao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
